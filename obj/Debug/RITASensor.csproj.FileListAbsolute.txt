@@ -1,0 +1,13 @@
+D:\Proyectos\Proyectos VisualBasic\RITA\RITASensor\RITASensor\bin\Debug\RITASensor.exe.config
+D:\Proyectos\Proyectos VisualBasic\RITA\RITASensor\RITASensor\bin\Debug\RITASensor.exe
+D:\Proyectos\Proyectos VisualBasic\RITA\RITASensor\RITASensor\bin\Debug\RITASensor.pdb
+D:\Proyectos\Proyectos VisualBasic\RITA\RITASensor\RITASensor\bin\Debug\MetroFramework.dll
+D:\Proyectos\Proyectos VisualBasic\RITA\RITASensor\RITASensor\bin\Debug\MetroFramework.Fonts.dll
+D:\Proyectos\Proyectos VisualBasic\RITA\RITASensor\RITASensor\obj\Debug\RITASensor.csprojAssemblyReference.cache
+D:\Proyectos\Proyectos VisualBasic\RITA\RITASensor\RITASensor\obj\Debug\RITASensor.RitaPanel.resources
+D:\Proyectos\Proyectos VisualBasic\RITA\RITASensor\RITASensor\obj\Debug\RITASensor.Properties.Resources.resources
+D:\Proyectos\Proyectos VisualBasic\RITA\RITASensor\RITASensor\obj\Debug\RITASensor.csproj.GenerateResource.cache
+D:\Proyectos\Proyectos VisualBasic\RITA\RITASensor\RITASensor\obj\Debug\RITASensor.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyectos VisualBasic\RITA\RITASensor\RITASensor\obj\Debug\RITASensor.csproj.CopyComplete
+D:\Proyectos\Proyectos VisualBasic\RITA\RITASensor\RITASensor\obj\Debug\RITASensor.exe
+D:\Proyectos\Proyectos VisualBasic\RITA\RITASensor\RITASensor\obj\Debug\RITASensor.pdb
